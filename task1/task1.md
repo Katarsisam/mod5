@@ -23,12 +23,12 @@ clean:
 # insmod hello.ko
 
 # dmesg | tail -1
-[ 8394.731865] Hello world!
+[ ] Hello world!
 
 # rmmod hello.ko
 
 # dmesg | tail -1
-[ 8707.989819] Cleaning up module.
+[] Cleaning up module.
 ```
 
 # Компиляция
