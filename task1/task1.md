@@ -5,7 +5,7 @@
 
 # hello.c
 
-![hello.c](../screens/hello.png)
+![hello_c](../screens/hello.png)
 
 # Makefile
 ```bash
@@ -32,5 +32,5 @@ clean:
 ```
 
 # Компиляция
-![hello.c](../screens/comp.png)
+![comp](../screens/comp.png)
 
