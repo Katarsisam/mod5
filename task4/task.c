@@ -1,9 +1,4 @@
-/* 
- * chardev.c: Creates a read-only char device that says how many times 
- * you have read from the dev file
- * src: https://sysprog21.github.io/lkmpg/#device-drivers 
- */ 
- 
+
 #include <linux/cdev.h> 
 #include <linux/delay.h> 
 #include <linux/device.h> 

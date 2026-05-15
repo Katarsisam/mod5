@@ -1,5 +1,3 @@
-// String reversal done by device driver
-
 #include<stdio.h>
 #include<fcntl.h>
 #include<assert.h>
